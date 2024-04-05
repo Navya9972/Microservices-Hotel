@@ -10,3 +10,4 @@ eureka:
     register-with-eureka: true
     service-url:
       defafaultZone: http://localhost:8761/eureka
+   deafukt zon also u need to wrire
